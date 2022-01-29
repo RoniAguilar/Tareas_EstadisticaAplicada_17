@@ -6,6 +6,8 @@ Matricula: 1855188
 
 Estadística Aplicada
 
+Grupo: 051
+
 Licenciatura en Actuaría 
 
 FCFM UANL
