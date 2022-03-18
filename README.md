@@ -17,4 +17,5 @@ FCFM UANL
 * [Tarea 3](https://github.com/RoniAguilar/Tareas_EstadisticaAplicada_17/blob/main/VVAO_1855188_Estad%C3%ADsticaAplicadaG51_tarea3.ipynb)
 * [Parcial 1-Parte A](https://github.com/RoniAguilar/Tareas_EstadisticaAplicada_17/blob/main/VVAO_1855188_EstadisticaAplicadaG51parcial1.ipynb)
 * [Parcial 1-Parte B](https://github.com/RoniAguilar/Tareas_EstadisticaAplicada_17/blob/main/VVAO_1855188_EstadisticaAplicadaG51_parcial1parte2.ipynb)
+* [Tarea 7](https://github.com/RoniAguilar/Tareas_EstadisticaAplicada_17/blob/main/VVAO_1855188_EAG51_actividad7_mar2022.ipynb)
 * [Tarea 8](https://github.com/RoniAguilar/Tareas_EstadisticaAplicada_17/blob/main/VVAO_1855188_EAG51_actividad8_mar2022.ipynb)
