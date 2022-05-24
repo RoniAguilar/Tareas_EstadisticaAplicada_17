@@ -29,3 +29,6 @@ FCFM UANL
 * [Tarea Kaplan Meier](https://github.com/RoniAguilar/Tareas_EstadisticaAplicada_17/blob/main/VVAO_1855188_EAG51_actividadKaplanMeier_may2022.pdf)
 * [Tarea Modelo Cox](https://github.com/RoniAguilar/Tareas_EstadisticaAplicada_17/blob/main/VVAO_1855188_EAG51_actividadcox_may2022.ipynb)
 * [Parcial 3](https://github.com/RoniAguilar/Tareas_EstadisticaAplicada_17/blob/main/VVAO_1855188_Estad%C3%ADsticaAplicadaG51_parcial3.ipynb)
+* [PIA](https://github.com/RoniAguilar/Tareas_EstadisticaAplicada_17/blob/main/MAJH_1857876_VVAO_1855188_Estad%C3%ADsticaAplicada_G51_PIAc%20(1).pdf)
+* * [PIA - Parte I. Series de tiempo](https://github.com/RoniAguilar/Tareas_EstadisticaAplicada_17/blob/main/MAJH_1857876_VVAO_1855188_Estad%C3%ADsticaAplicadaG51_PIAa%20.ipynb)
+* * [PIA - Parte II. Modelos de supervivencia](https://github.com/RoniAguilar/Tareas_EstadisticaAplicada_17/blob/main/MAJH_1857876_VVAO_1855188_Estad%C3%ADsticaAplicada_G51_PIAb%20(1).ipynb)
